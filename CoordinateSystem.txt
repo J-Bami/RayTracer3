@@ -1,0 +1,10 @@
+A quick and important note with regards to the coordinate systems that are used in this project:
+
+for the cameras and all geometry:
+
+x = forward
+y = left
+z = up
+
+
+for Spherical Geometry in the use of the cameras, (angle about y, angle about z.)

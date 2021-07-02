@@ -8,7 +8,7 @@ It is formed mostly of templates which allow different floating point types to b
 
 Features:
   - Custom spectra can be used, with up to 8 colours used per spectrum currently. This is all translated to RGB, however.
-  - Refraction 
+  - Additive Refraction, Diffuse and Specular reflection 
 
 Current capabilities:
   Light Sources:
